@@ -33,7 +33,7 @@
     "src/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
-  ],
+, "src/composables/fillNodesAndCornersts"  ],
   "exclude": [
     "node_modules"
   ]

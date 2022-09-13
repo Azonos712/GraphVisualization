@@ -1,0 +1,14 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" fill="#9f9f9f">
+ <title>7-Arrow Up</title>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="_7-Arrow_Up">
+   <path stroke="null" id="svg_1" d="m3.49384,2.08515l13.12604,0l0,-2.08515l-15.63866,0a1.04258,1.04258 0 0 0 -1.04258,1.04258l0,16.68123l2.08515,0l0,-14.16862l29.4945,29.50493l1.47003,-1.47003l-29.4945,-29.50493z"/>
+  </g>
+ </g>
+</svg>
